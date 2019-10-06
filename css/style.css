@@ -1,0 +1,21 @@
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.container {
+    width: 1170px;
+    margin: 0 auto;
+}
+.mtb-40 {
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.zdog-element {
+    display: block;
+    /*width: 240px;*/
+    /*height: 240px;*/
+    border: 1px solid #eee;
+    margin-right: 15px;
+    margin-bottom: 15px;
+}
